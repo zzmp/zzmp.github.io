@@ -2,8 +2,8 @@
 title: zzmp.github.io
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://zzmp.github.io" # the base hostname & protocol for your site
-description: >
-  Another software engineer's blog.<br>
+description: |
+  Another software engineer's blog.
   Usually just my tinkerings.
 
 # personal settings
